@@ -1,5 +1,5 @@
 # SearchEngineSearchfight
-Searchfight: This application queries search engines and compares how many results they return.
+Searchfight: This .Net Console application queries search engines and compares how many results they return.
 For example refer below for the input:
 
 .Net c# "Java script"
